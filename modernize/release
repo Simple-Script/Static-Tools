@@ -18,3 +18,7 @@ document.body.innerHTML = document.body.innerHTML.replace(/kids/g, 'younguns');
 document.body.innerHTML = document.body.innerHTML.replace(/Kids/g, 'Younguns');
 document.body.innerHTML = document.body.innerHTML.replace(/children/g, 'younguns');
 document.body.innerHTML = document.body.innerHTML.replace(/Children/g, 'Younguns');
+document.body.innerHTML = document.body.innerHTML.replace(/things/g, 'jawms');
+document.body.innerHTML = document.body.innerHTML.replace(/Things/g, 'Jawns');
+document.body.innerHTML = document.body.innerHTML.replace(/criminal/g, 'black people');
+document.body.innerHTML = document.body.innerHTML.replace(/Criminal/g, 'Black people');
