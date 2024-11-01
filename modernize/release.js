@@ -22,3 +22,5 @@ document.body.innerHTML = document.body.innerHTML.replace(/things/g, 'jawns');
 document.body.innerHTML = document.body.innerHTML.replace(/Things/g, 'Jawns');
 document.body.innerHTML = document.body.innerHTML.replace(/touch/g, 'diddy');
 document.body.innerHTML = document.body.innerHTML.replace(/Touch/g, 'Diddy');
+document.body.innerHTML = document.body.innerHTML.replace(/touched/g, 'diddied');
+document.body.innerHTML = document.body.innerHTML.replace(/Touched/g, 'Diddied');
