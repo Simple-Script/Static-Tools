@@ -20,5 +20,5 @@ document.body.innerHTML = document.body.innerHTML.replace(/children/g, 'younguns
 document.body.innerHTML = document.body.innerHTML.replace(/Children/g, 'Younguns');
 document.body.innerHTML = document.body.innerHTML.replace(/things/g, 'jawns');
 document.body.innerHTML = document.body.innerHTML.replace(/Things/g, 'Jawns');
-document.body.innerHTML = document.body.innerHTML.replace(/big/g, 'Logan Peterson');
-document.body.innerHTML = document.body.innerHTML.replace(/Big/g, 'Logan Peterson');
+document.body.innerHTML = document.body.innerHTML.replace(/touch/g, 'diddy');
+document.body.innerHTML = document.body.innerHTML.replace(/Touch/g, 'Diddy');
