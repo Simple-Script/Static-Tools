@@ -30,3 +30,5 @@ document.body.innerHTML = document.body.innerHTML.replace(/cool/g, 'comp');
 document.body.innerHTML = document.body.innerHTML.replace(/Cool/g, 'Comp');
 document.body.innerHTML = document.body.innerHTML.replace(/good/g, 'lit');
 document.body.innerHTML = document.body.innerHTML.replace(/Good/g, 'Lit');
+document.body.innerHTML = document.body.innerHTML.replace(/sweat/g, 'Oliver');
+document.body.innerHTML = document.body.innerHTML.replace(/Sweat/g, 'Oliver');
